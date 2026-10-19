@@ -1,2 +1,2 @@
-# mlops-Project
+# mlops-project
 First MLops project. 
